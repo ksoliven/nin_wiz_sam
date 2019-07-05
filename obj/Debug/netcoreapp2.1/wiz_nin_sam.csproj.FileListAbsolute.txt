@@ -1,0 +1,11 @@
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\bin\Debug\netcoreapp2.1\wiz_nin_sam.deps.json
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\bin\Debug\netcoreapp2.1\wiz_nin_sam.runtimeconfig.json
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\bin\Debug\netcoreapp2.1\wiz_nin_sam.runtimeconfig.dev.json
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\bin\Debug\netcoreapp2.1\wiz_nin_sam.dll
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\bin\Debug\netcoreapp2.1\wiz_nin_sam.pdb
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\obj\Debug\netcoreapp2.1\wiz_nin_sam.csprojAssemblyReference.cache
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\obj\Debug\netcoreapp2.1\wiz_nin_sam.csproj.CoreCompileInputs.cache
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\obj\Debug\netcoreapp2.1\wiz_nin_sam.AssemblyInfoInputs.cache
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\obj\Debug\netcoreapp2.1\wiz_nin_sam.AssemblyInfo.cs
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\obj\Debug\netcoreapp2.1\wiz_nin_sam.dll
+C:\Users\chloe\OneDrive\Desktop\C#\wiz_nin_sam\obj\Debug\netcoreapp2.1\wiz_nin_sam.pdb
